@@ -1,4 +1,4 @@
-# Mini-Project: 
+# Mini-Project: ปัจจัยทางเศรษฐกิจและคุณภาพชีวิตที่ส่งผลต่อความพึงพอใจในชีวิต
 _Mini-Project นี้ เป็นส่วนหนึ่งของวิชา DADS5001: Data Analytics and Data Science Tools and Programming_
 
 ### จัดทำโดย
