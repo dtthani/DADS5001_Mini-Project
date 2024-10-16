@@ -1,5 +1,5 @@
 # Mini-Project: Economic and Quality of Life Factors Influencing the Life Ladder
-_Mini-Project นี้เป็นส่วนหนึ่งของวิชา DADS5001: Data Analytics and Data Science Tools and Programming โดยมีจุดมุ่งหมายในการสำรวจความสัมพันธ์ระหว่างปัจจัยทางเศรษฐกิจและคุณภาพชีวิตกับระดับความสุขตามตัวชี้วัด Life Ladder เพื่อทำความเข้าใจว่าปัจจัยเหล่านี้ส่งผลต่อความพึงพอใจในชีวิตของผู้คนอย่างไร ซึ่งจะเป็นประโยชน์ต่อการวางนโยบายและการพัฒนาคุณภาพชีวิตในระดับประเทศ_
+_Mini-Project นี้เป็นส่วนหนึ่งของวิชา DADS5001: Data Analytics and Data Science Tools and Programming_
 
 **จัดทำโดย**
 1. 6610422034 นายกฤติพงษ์ หมอสุยะ
@@ -78,7 +78,7 @@ consolidate_all_alias.columns = ['Country Code', 'Country Name', 'HDI Code', 'In
 ```
 
 ## 2. Objective
-**ปัจจัยทางเศรษฐกิจและคุณภาพชีวิตที่ดีส่งผลต่อประเทศไทยด้านความพึงพอใจในชีวิตอย่างไร?**
+**สำรวจความสัมพันธ์ระหว่างปัจจัยทางเศรษฐกิจและคุณภาพชีวิตกับระดับความสุขตามตัวชี้วัด Life Ladder เพื่อทำความเข้าใจว่าปัจจัยเหล่านี้ส่งผลต่อความพึงพอใจในชีวิตของประชากรในประเทศไทยอย่างไร**
 
 ## 3. Exploratory Data Analysis (EDA)
 ### 3.1 Introduction
