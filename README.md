@@ -78,7 +78,7 @@ consolidate_all_alias.columns = ['Country Code', 'Country Name', 'HDI Code', 'In
 ```
 
 ## 2. Objective
-**ปัจจัยทางเศรษฐกิจและคุณภาพชีวิตที่ดีส่งผลต่อของประเทศไทยด้านความพึงพอใจในชีวิตอย่างไร**
+**ปัจจัยทางเศรษฐกิจและคุณภาพชีวิตที่ดีส่งผลต่อประเทศไทยด้านความพึงพอใจในชีวิตอย่างไร?**
 
 ## 3. Exploratory Data Analysis (EDA)
 ### 3.1 Introduction
